@@ -106,4 +106,4 @@ To run the pairs trading algorithm, follow the instructions below:
 - After running the algorithm, review the generated plots and performance metrics to assess the strategy's effectiveness.
 - Refer to the detailed backtesting report and user guide for a comprehensive analysis.
 
-For more details, please refer the [User Guide](Pairs Trading Algorithm User Guide 200624.docx) and [Backtesting Report](Pairs Trading Algorithm Backtesting Report.docx).
+For more details, please refer to the [User Guide](Pairs%20Trading%20Algorithm%20User%20Guide%20200624.docx) and [Backtesting Report](Pairs%20Trading%20Algorithm%20Backtesting%20Report.docx).
